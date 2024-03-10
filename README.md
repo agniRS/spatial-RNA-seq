@@ -1,3 +1,3 @@
 # spatial-RNA-seq
-spatial RNA-seq analysis in Glioblastoma using  Python \n
+spatial RNA-seq analysis in Glioblastoma using  Python /n
 This dataset is freely available from 10X Genomics (downloaded on 26/11/2020).
